@@ -12,7 +12,9 @@
     "ADD SUB",
     "BIT SHIFT",
     "1X4 AND",
-    "MULTIPLIER"
+    "MULTIPLIER",
+    "Greater Less Than",
+    "Equal"
   ],
   "StarredChips": [
     "AND",
@@ -26,7 +28,9 @@
     "ADD SUB",
     "BIT SHIFT",
     "1X4 AND",
-    "MULTIPLIER"
+    "MULTIPLIER",
+    "Greater Less Than",
+    "Equal"
   ],
   "DisplayOptions": {
     "MainChipPinNameDisplayMode": 1,
